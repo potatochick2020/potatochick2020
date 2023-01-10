@@ -2,7 +2,8 @@
 - 👀 Passionate, inquisitive and curious student with a strong passion for C++ programming
 
 # Projects 
-- C++ loadbalancer
+- [C++ Notes in Latex (Overleaf)](https://www.overleaf.com/read/sgxpznpfpmhn) **Still working on , started mid Jan 2023**
+- [C++ loadbalancer](https://github.com/potatochick2020/BoostAsio-LoadBalancer)
 - [Multi-Thread Sudoku Generator](https://github.com/potatochick2020/Sudoku-core)
 
 # Hackathon
