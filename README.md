@@ -3,10 +3,10 @@
 
 # Projects 
 - C++ loadbalancer
-- Sudoku Generator
+- [Multi-Thread Sudoku Generator](https://github.com/potatochick2020/Sudoku-core)
 
 # Hackathon
-- BetterBetter
+- [BetterBetter](https://github.com/strathclyde-durhack-2022/mono)
 
 # Course to learn before graduation:
 - nand2tetris  
