@@ -16,6 +16,13 @@
 - [CSAPP :  Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/)
 - [6.s081: operating system engineering](https://pdos.csail.mit.edu/6.S081/2020/) 
 
+----- Still deciding -----
+## OS 
+### JYY basic OS
+### JYY OS
+### Assmebly Language
+
+
 <!---
 potatochick2020/potatochick2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
