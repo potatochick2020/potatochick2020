@@ -10,5 +10,5 @@
 # Hackathon
 - [BetterBetter](https://github.com/strathclyde-durhack-2022/mono)
 
-# My config 
+# My config (nvim + kitty + picom + gitui)
 - [config](https://github.com/potatochick2020/nvim-config)
