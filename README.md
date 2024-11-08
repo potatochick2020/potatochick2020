@@ -1,14 +1,7 @@
 - 👋 Hi, I’m Nok
-- 👀 Passionate, inquisitive and curious student with a strong passion for C++ programming
-
-# Projects 
-<!-- - [C++ Notes in Latex (Overleaf)](https://www.overleaf.com/read/sgxpznpfpmhn) **Still working on , started mid Jan 2023** -->
-- [C++ loadbalancer](https://github.com/potatochick2020/BoostAsio-LoadBalancer)
-- [Multi-Thread Sudoku Generator](https://github.com/potatochick2020/Sudoku-core)
-- [Cute-Queues (thread-safe queues)](https://github.com/potatochick2020/cute-queues)
-
-# Hackathon
-- [BetterBetter](https://github.com/strathclyde-durhack-2022/mono)
+- 2 years experience Golang Developer
 
 # My config (nvim + kitty + picom + gitui)
-- [config](https://github.com/potatochick2020/nvim-config)
+- [nvim-config(Archive)](https://github.com/potatochick2020/nvim-config)
+- I am using vscode-neovim now, iterm2 + vscode-neovim. Not really inclined to use the DAP debugger in Neovim, as I don't feel it aligns with the Vim philosophy of enhancing my workflow.
+- I use Aerosapce as Tiling Window Manager on mac, i3 on debian linux
